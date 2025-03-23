@@ -67,7 +67,8 @@ response = requests.get('https://api.themoviedb.org/3/movie/{}?api_key=YOUR_TMDB
     
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1RM-Jv2GpwYvYFRwyP1TKNZjg68lJfGZG/view?usp=sharing)
+![Screenshot 2025-03-18 203441](https://github.com/user-attachments/assets/3e547799-ae04-4df6-a89f-b313902a69cc)
+
 
 ## 🤝 Contributing
 Feel free to fork this repository and improve it!
